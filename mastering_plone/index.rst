@@ -68,6 +68,7 @@ Contents:
     deployment_code
     deployment_sites
     restapi
+    angular
     future_of_plone
     optional
 
