@@ -1,1 +1,1 @@
-.. include:: ../theming/ttw-advanced_2.rst
+.. include:: ../theming/ttw-advanced-2.rst
