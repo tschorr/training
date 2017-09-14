@@ -25,6 +25,14 @@ Mastering Plone Theming
    collective-jbot
    custom-components
 
+.. toctree::
+   :hidden:
+   :maxdepth: 3
+   :caption: Plone Trainings
+
+   about/index
+   about/glossary
+
 .. seealso::
 
    - :ref:`ttw-label`
