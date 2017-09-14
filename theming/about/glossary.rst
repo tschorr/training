@@ -19,6 +19,12 @@ Glossary
    TTW
       Through-The-Web, changes in the browser.
 
+   XML
+      The Extensible Markup Language.
+
+   XPath
+      XPath (XML Path Language) is a query language for selecting nodes from an XML document.
+
    ZCML
       The `Zope Configuration Mark-up Language <https://docs.plone.org/develop/addons/components/zcml.html>`_.
 
