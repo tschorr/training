@@ -8,7 +8,7 @@ Mastering Plone Theming
 :Level: All levels
 
 .. toctree::
-   :hideen:
+   :hidden:
    :maxdepth: 3
    :caption: Theming
 
