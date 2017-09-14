@@ -1,11 +1,16 @@
 .. _theming-label:
 
+=======================
 Mastering Plone Theming
 =======================
 
+:About: Adjusting the visual representation of Plone with Diazo
+:Level: All levels
+
 .. toctree::
+   :hideen:
    :maxdepth: 3
-   :numbered: 1
+   :caption: Theming
 
    basic
    ttw-advanced
